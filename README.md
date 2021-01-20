@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# React Calculator with only using "useState" Hooks - Pair Programming
+
+Pair Programmer: [Olha N.](https://https://github.com/olhanotolga) 
+This Project was realised in our curriculum as Web Devs. 
+
+## Our Calculator
+![images](/calc.jpg)
+
+[Link to Calculator](https://sezai-keskin.github.io/react-calculator-pair-prog/)
+
+## First Steps - Components we need
+We brainstormed and made a drawing, thinking about the components we need.
+![images](/calc-brainstorm.jpg)
+
+## Refactoring - Components Tree Structure
+After coding we had some time that we could use to refactor some code.
+So we edited our first drawing
+![images](/calc-refactor.png)
+
+###Thanks to my colleague for joining, i learned a lot from you.
+
+Easter Egg: Divide a Number by 0 :stuck_out_tongue_winking_eye:
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

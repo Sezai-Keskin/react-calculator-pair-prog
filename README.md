@@ -1,6 +1,6 @@
 # React Calculator with only using "useState" Hooks - Pair Programming
 
-Pair Programmer: [Olha N.](https://https://github.com/olhanotolga) 
+Pair Programmer: [Olha N.](https://github.com/olhanotolga) 
 This Project was realised in our curriculum as Web Devs. 
 
 ## Our Calculator

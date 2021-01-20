@@ -17,7 +17,7 @@ After coding we had some time that we could use to refactor some code.
 So we edited our first drawing
 ![images](/calc-refactor.png)
 
-###Thanks to my colleague for joining, i learned a lot from you.
+### Thanks to my colleague for joining, i learned a lot from you.
 
 Easter Egg: Divide a Number by 0 :stuck_out_tongue_winking_eye:
 
